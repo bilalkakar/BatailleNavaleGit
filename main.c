@@ -17,11 +17,7 @@ void RetournMenuPrinc()
     MenuPrincipal=OnlyNumber();
 }
 
-/** \brief Cette fonction est utilisée pour la partie Authentification
- *
- * \return void
- *
- */
+
 void Authentification()
 {
     char nom[Max_Car_Nom]="";
